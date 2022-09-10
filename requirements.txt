@@ -1,0 +1,4 @@
+IProgress==0.4
+tqdm==4.64.1
+fastai==2.7.9
+ipywidgets==8.0.2
